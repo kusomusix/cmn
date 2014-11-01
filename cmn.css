@@ -10,6 +10,9 @@ body {
 wrapper {
 	width: 840px;
 }
+wrapper span {
+	width: 840px;
+}
 
 /***********************************************/
 /* header                                      */
