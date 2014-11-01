@@ -17,3 +17,6 @@ body {
 #header span {
 	text-align: left;
 }
+#header span span {
+	text-align: left;
+}
